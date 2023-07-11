@@ -2,6 +2,7 @@
   "name": "typing-test-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://danilhas.github.io/typing-test-app/",
   "dependencies": {
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",
