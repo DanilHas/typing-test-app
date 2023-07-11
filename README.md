@@ -22,4 +22,4 @@
 
 **GitHub Pages**
 
-* [Ссылка проекта на GitHub Pages](https://danilhas.github.io/react-mesto-auth/)
+* [Ссылка проекта на GitHub Pages](https://danilhas.github.io/typing-test-app/)
